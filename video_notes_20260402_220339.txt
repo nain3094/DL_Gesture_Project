@@ -1,0 +1,109 @@
+
+═══════════════════════════════════════════════════════════════
+                    VIDEO SUMMARY NOTES
+═══════════════════════════════════════════════════════════════
+
+Video: videoplayback
+Generated: 2026-04-02 22:03:39
+───────────────────────────────────────────────────────────────
+
+📹 VIDEO INFORMATION
+═══════════════════════════════════════════════════════════════
+Duration:           468 seconds (7 min 48 sec)
+Frame Rate (FPS):   30.0 fps
+Resolution:         640x360
+Total Frames:       14055
+File Size:          11.52 MB
+
+───────────────────────────────────────────────────────────────
+
+📊 CONTENT ANALYSIS
+═══════════════════════════════════════════════════════════════
+Key Frames Extracted:  5
+Scene Changes:         0
+
+───────────────────────────────────────────────────────────────
+
+🎓 KEY OBSERVATIONS
+═══════════════════════════════════════════════════════════════
+
+1. Video Duration & Pace:
+   This video is 468 seconds long, which is suitable for 
+   medium-length learning sessions.
+   
+   Frame rate of 30.0 fps provides 
+   smooth playback quality.
+
+2. Visual Content Structure:
+   0 scene changes detected indicates 
+   a continuous narrative with minimal transitions.
+   
+   Extracted 5 key frames representing the most important visual moments.
+
+3. Content Characteristics:
+   - Resolution: 640x360 pixels
+   - Total frames: 14055
+   - Average scene length: 468 seconds
+
+───────────────────────────────────────────────────────────────
+
+📝 STUDY NOTES TEMPLATE
+═══════════════════════════════════════════════════════════════
+
+Topic/Subject: ___________________________________________________
+
+Main Concepts Covered:
+□ Concept 1: _____________________________________________________
+□ Concept 2: _____________________________________________________
+□ Concept 3: _____________________________________________________
+
+Key Points:
+1. ________________________________________________________________
+2. ________________________________________________________________
+3. ________________________________________________________________
+4. ________________________________________________________________
+5. ________________________________________________________________
+
+Important Definitions:
+- Term 1: _________________________________________________________
+- Term 2: _________________________________________________________
+- Term 3: _________________________________________________________
+
+Questions to Answer:
+Q1: What is the main idea of this video?
+A: _________________________________________________________________
+
+Q2: What are the key takeaways?
+A: _________________________________________________________________
+
+Q3: How can this be applied in practice?
+A: _________________________________________________________________
+
+───────────────────────────────────────────────────────────────
+
+✅ LEARNING CHECKLIST
+═══════════════════════════════════════════════════════════════
+
+After watching this video, you should be able to:
+☐ Understand the main concepts
+☐ Explain key ideas to someone else
+☐ Apply the knowledge to real-world situations
+☐ Recall at least 3 main points
+☐ Complete related exercises or assignments
+
+───────────────────────────────────────────────────────────────
+
+📋 SUMMARY
+═══════════════════════════════════════════════════════════════
+
+This video provides continuous narrative content that is approximately
+468 seconds (7 minutes) in length.
+With 0 scene transitions and 5 key visual moments,
+it presents information in a segmented, potentially easy-to-follow format.
+
+Recommended viewing: Watch in focused intervals with note-taking.
+Review: Return to key frames for reinforcement learning.
+
+───────────────────────────────────────────────────────────────
+Generated: 2026-04-02 at 22:03:39
+═══════════════════════════════════════════════════════════════
