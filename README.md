@@ -14,7 +14,6 @@ An AI-powered Deep learning system that converts lecture videos into structured 
 *  This project supports **YouTube links & local video files**
 *  **Speech-to-Text using OpenAI Whisper**
 *  **GPT/LLM-based Summarization** (structured notes)
-*  **Automatic Chapter Detection** (topic segmentation)
 *  **Keyword Extraction**
 *  **Gesture-Based Controls (MediaPipe)**
 
